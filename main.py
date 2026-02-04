@@ -5,6 +5,7 @@ from twilio.rest import Client
 from dotenv import load_dotenv
 import re
 from db import init_db, add_activity
+from scheduler import initialize_scheduler
 
 # loading & defining environment variables
 load_dotenv()
@@ -31,7 +32,9 @@ def parse_message(text: str):
 async def lifespan(app: FastAPI):
     print("App starting up!")
     init_db()
+    scheduler = initialize_scheduler(client, TWILIO_NUMBER, MY_NUMBER)
     yield
+    scheduler.shutdown()
     print("App shutting down!")
 
 # initializing fastapi
