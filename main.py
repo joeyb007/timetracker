@@ -1,7 +1,8 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, Form, HTTPException
 import os
 from twilio.rest import Client
 from dotenv import load_dotenv
+import re
 
 # loading & defining environment variables
 load_dotenv()
@@ -17,8 +18,22 @@ client = Client(TWILIO_SID, TWILIO_AUTH_TOKEN)
 # initializing fastapi
 app = FastAPI()
 
+# Helper functions
 
-if __name__ == "__main__":
-    message = client.messages.create(from_=TWILIO_NUMBER,
-                                    body="Here's your text!",
-                                    to=MY_NUMBER)
+def parse_message(text: str):
+    message = text.split()
+    mood = int(message[-1])
+    message.pop()
+    activity = ' '.join(message)
+    return activity, mood
+
+# Recieving message endpoint
+@app.post('/sms')
+def receive_sms(Body: str = Form()):
+    try:
+        activity, mood = parse_message(Body)
+    except:
+        client.messages.create(from_=TWILIO_NUMBER,
+                                body="Please format input correctly",
+                                to=MY_NUMBER)
+        raise HTTPException(status_code=404, detail="Item not found")
