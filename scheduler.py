@@ -7,7 +7,7 @@ def send_prompt(client, from_number, to_number):
 
 def initialize_scheduler(client, from_number, to_number):
     scheduler = BackgroundScheduler()
-    scheduler.add_job(send_prompt, 'interval', minutes=1, args=(client, from_number, to_number))
+    scheduler.add_job(send_prompt, 'interval', minutes=30, args=(client, from_number, to_number), id="prompt_job")
     scheduler.start()
     print("Scheduler started!")
     return scheduler

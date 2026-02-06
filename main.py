@@ -27,15 +27,23 @@ def parse_message(text: str):
     activity = ' '.join(message)
     return activity, mood
 
+scheduler = None
+
 # lifespan (on startup)
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     print("App starting up!")
     init_db()
+    global scheduler
     scheduler = initialize_scheduler(client, TWILIO_NUMBER, MY_NUMBER)
     yield
     scheduler.shutdown()
     print("App shutting down!")
+
+def send_message(body):
+    client.messages.create(from_=TWILIO_NUMBER,
+                                body=f"{body}",
+                                to=MY_NUMBER)
 
 # initializing fastapi
 app = FastAPI(lifespan=lifespan)
@@ -44,10 +52,18 @@ app = FastAPI(lifespan=lifespan)
 @app.post('/sms')
 def receive_sms(Body: str = Form()):
     try:
+        if Body == 'sleep':
+            add_activity("Sleeping", 10)
+            send_message("Good night, Joseph!")
+            scheduler.pause_job("prompt_job")
+            return {'status': 'saved'}
+        elif Body == 'awake':
+            add_activity("Morning routine: prayer & bible", 10)
+            send_message("Rise & Shine, win the day!")
+            scheduler.resume_job("prompt_job")
+            return {'status': 'saved'}
         activity, mood = parse_message(Body)
         add_activity(activity, mood)
     except:
-        client.messages.create(from_=TWILIO_NUMBER,
-                                body="Please format input correctly",
-                                to=MY_NUMBER)
-        raise HTTPException(status_code=404, detail="Item not found")
+        send_message("Please input format correctly")
+        raise HTTPException(status_code=404, detail="Incorrect format")
