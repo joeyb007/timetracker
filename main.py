@@ -52,12 +52,12 @@ app = FastAPI(lifespan=lifespan)
 @app.post('/sms')
 def receive_sms(Body: str = Form()):
     try:
-        if Body == 'sleep':
+        if Body.lower() == 'sleep':
             add_activity("Sleeping", 10)
             send_message("Good night, Joseph!")
             scheduler.pause_job("prompt_job")
             return {'status': 'saved'}
-        elif Body == 'awake':
+        elif Body.lower() == 'awake':
             add_activity("Morning routine: prayer & bible", 10)
             send_message("Rise & Shine, win the day!")
             scheduler.resume_job("prompt_job")
