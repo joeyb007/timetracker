@@ -1,0 +1,1692 @@
+{
+  "2026-02-04": [
+    {
+      "activity": "Sleeping",
+      "mood": 5,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 5,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 5,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 5,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 5,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 5,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 5,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 5,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 5,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 5,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 5,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 5,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 5,
+      "category": "Other"
+    },
+    {
+     "activity": "Sleeping",
+      "mood": 5,
+      "category": "Other"
+    },
+    {
+      "activity": "Morning routine: prayer & bible",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+     "activity": "Gym",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Gym",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Making breakfast (81g protein!)",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Showering and changing",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Prepatring for intern meeting",
+      "mood": 5,
+      "category": "Other"
+    },
+    {
+      "activity": "Intern meeting",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Intern meeting",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Intern work",
+      "mood": 5,
+      "category": "Other"
+    },
+    {
+      "activity": "Grabbing Lunch + Studying for 121",
+      "mood": 5,
+      "category": "Other"
+    },
+    {
+      "activity": "Walking to UW",
+      "mood": 5,
+      "category": "Other"
+    },
+    {
+      "activity": "Calculus class",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Calculus class",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Linear algebra lec",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Linear algebra lec",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Walking home",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "121 Studying",
+      "mood": 3,
+      "category": "Other"
+    },
+    {
+      "activity": "121 Studying",
+      "mood": 3,
+      "category": "Other"
+    },
+    {
+       "activity": "121 Studying",
+      "mood": 3,
+      "category": "Other"
+    },
+    {
+      "activity": "121 studying and dinner",
+      "mood": 5,
+      "category": "Other"
+    },
+    {
+      "activity": "Intern work",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "CSC work",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+     "activity": "Macro homework",
+      "mood": 9,
+      "category": "Other"
+    },
+    {
+      "activity": "Macro homework",
+      "mood": 9,
+      "category": "Other"
+    },
+    {
+      "activity": "Calculus study notes",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Calculus study notes",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Linear algebra midterm studying",
+      "mood": 9,
+      "category": "Other"
+    },
+    {
+      "activity": "Chilling with roomates",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Chilling with roomates",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    }
+  ],
+  "2026-02-05": [
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Morning routine: prayer & bible",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Gym",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Gym",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Shower + eat",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Walk to business class",
+      "mood": 5,
+      "category": "Other"
+    },
+    {
+      "activity": "BU121 Lecture",
+      "mood": 4,
+      "category": "Other"
+    },
+    {
+      "activity": "BU121 Lecture",
+      "mood": 4,
+      "category": "Other"
+    },
+    {
+      "activity": "BU121 Lecture",
+      "mood": 4,
+      "category": "Other"
+    },
+    {
+      "activity": "EC140 Lecture",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "EC140 Lecture",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "EC140 Lecture",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Building this app",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Eating and reading linear algebra notes",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Making lunch",
+      "mood": 9,
+      "category": "Other"
+    },
+    {
+      "activity": "Eating and reading CS notes",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Chatting w/ roomates",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Walking over to waterloo",
+      "mood": 5,
+      "category": "Other"
+    },
+    {
+      "activity": "CS136 Lecture",
+      "mood": 9,
+      "category": "Other"
+    },
+    {
+      "activity": "CS136 Lecture",
+      "mood": 9,
+      "category": "Other"
+    },
+    {
+      "activity": "CS136 Lecture",
+      "mood": 9,
+      "category": "Other"
+    },
+    {
+       "activity": "Last minute calculus study",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Writing Calculus quiz",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Getting dinner from SLC",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Walking to library and getting coffee",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+     "activity": "Comms quiz prep",
+      "mood": 9,
+      "category": "Other"
+    },
+    {
+      "activity": "Comms class",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Comms class",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Comms class",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Comms class",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Comms class",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Walking home (in the FREEZING COLD)",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Going to Laz'",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying for BU121",
+      "mood": 5,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying for BU121",
+      "mood": 5,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying for BU121",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying for BU121",
+      "mood": 10,
+      "category": "Other"
+    }
+  ],
+  "2026-02-06": [
+    {
+      "activity": "Studying for BU121",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Morning routine: prayer & bible",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Gym",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Gym",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Showering / freshening up",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Making breakfast (80g protein)",
+      "mood": 9,
+      "category": "Other"
+    },
+    {
+      "activity": "CS Notes",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "CS Notes",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "CS assignment",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Intern weekly standup",
+      "mood": 5,
+      "category": "Other"
+    },
+    {
+      "activity": "Intern weekly standup",
+      "mood": 5,
+      "category": "Other"
+    },
+    {
+      "activity": "Making lunch",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Eating and reading linear algebra notes",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Walking to UW",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Calculus class",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Calculus class",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Linear algebra class",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Linear algebra class",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Walking home",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Making a snack (high protein of course)",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+       "activity": "Chatting with roomates",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Business midterm studying",
+      "mood": 2,
+      "category": "Other"
+    },
+    {
+      "activity": "Business midterm studying",
+      "mood": 3,
+      "category": "Other"
+    },
+    {
+      "activity": "Business midterm studying",
+      "mood": 3,
+      "category": "Other"
+    },
+    {
+     "activity": "Business midterm studying",
+      "mood": 3,
+      "category": "Other"
+    },
+    {
+      "activity": "Business midterm studying",
+      "mood": 3,
+      "category": "Other"
+    },
+    {
+      "activity": "Writing business midterm",
+      "mood": 9,
+      "category": "Other"
+    },
+    {
+      "activity": "Writing business midterm",
+      "mood": 9,
+      "category": "Other"
+    },
+    {
+      "activity": "Writing business miterm",
+      "mood": 9,
+      "category": "Other"
+    },
+    {
+      "activity": "Writing business midterm",
+      "mood": 9,
+      "category": "Other"
+    },
+    {
+      "activity": "Celebrating end of business midterm",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Getting food with friends",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Getting food with friends",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Building this!",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Building this!",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Building this!",
+      "mood": 10,
+      "category": "Other"
+    }
+  ],
+  "2026-02-07": [
+    {
+      "activity": "Building this!",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Building this!",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Building this!",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Morning routine: prayer & bible",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Gym",
+      "mood": 9,
+      "category": "Other"
+    },
+    {
+      "activity": "Gym",
+      "mood": 9,
+      "category": "Other"
+    },
+    {
+      "activity": "Gym",
+      "mood": 9,
+      "category": "Other"
+    },
+    {
+      "activity": "Showering and changing",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Making brunch",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Packing to go to Missisauga",
+      "mood": 9,
+      "category": "Other"
+    },
+    {
+      "activity": "Commuting to Mississauga",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Commuting to Mississauga",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Commuting to Mississauga",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Catching up with family",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying for Linear Algebra",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying for Linear Algebra",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+       "activity": "Studying for Linear Algebra",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Intern work",
+      "mood": 3,
+      "category": "Other"
+    },
+    {
+      "activity": "Intern work",
+      "mood": 3,
+      "category": "Other"
+    },
+    {
+      "activity": "Eating Dinner",
+      "mood": 9,
+      "category": "Other"
+    },
+    {
+      "activity": "Working on CS",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Reading for comms",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying for linear algebra",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying for linear algebra (and listening to Sade)",
+      "mood": 9,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying for linear algebra (and listening to Sade)",
+      "mood": 9,
+      "category": "Other"
+    },
+    {
+      "activity": "Intern work",
+      "mood": 5,
+      "category": "Other"
+    },
+    {
+      "activity": "CSC work",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "CSC work",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 8,
+      "category": "Other"
+    }
+  ],
+  "2026-02-08": [
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Morning routine: prayer & bible",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying for linear algebra",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying for linear algebra",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying for linear algebra",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying for linear algebra",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Having lunch with family",
+      "mood": 9,
+      "category": "Other"
+    },
+    {
+      "activity": "Having lunch with family",
+      "mood": 9,
+      "category": "Other"
+    },
+    {
+      "activity": "Packing to go back to Waterloo",
+      "mood": 4,
+      "category": "Other"
+    },
+    {
+      "activity": "Packing to go back to Waterloo",
+      "mood": 4,
+      "category": "Other"
+    },
+    {
+      "activity": "Commuting to Waterloo",
+      "mood": 5,
+      "category": "Other"
+    },
+    {
+      "activity": "Commuting to Waterloo",
+      "mood": 5,
+      "category": "Other"
+    },
+    {
+      "activity": "Commuting to Waterloo",
+      "mood": 5,
+      "category": "Other"
+    },
+    {
+      "activity": "Finishing CS homework",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Gym",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Gym",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Gym",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying for linear algebra",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying for linear algebra",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Going to watch the Super Bowl",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Going to watch the Super Bowl",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying and watching the Super Bowl",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying and watching the Super Bowl",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying and watching the Super Bowl",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying for linear algebra",
+      "mood": 9,
+      "category": "Other"
+    },
+    {
+      "activity": "Intern work",
+      "mood": 4,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying for linear algebra (and listening to Drake)",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Intern work",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Intern work",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Intern work",
+      "mood": 4,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 8,
+      "category": "Other"
+    }
+  ],
+  "2026-02-09": [
+    {
+      "activity": "Sleeping",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Morning routine: prayer & bible",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Gym",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Gym",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Gym",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Gym",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Making breakfast",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Showering and getting ready",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying for linear algebra",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying for linear algebra",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying for linear algebra",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying for linear algebra",
+      "mood": 9,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying for linear algebra",
+      "mood": 9,
+      "category": "Other"
+    },
+    {
+      "activity": "Commuting to Waterloo",
+      "mood": 5,
+      "category": "Other"
+    },
+    {
+      "activity": "Commuting to Waterloo",
+      "mood": 5,
+      "category": "Other"
+    },
+    {
+      "activity": "In calculus class",
+      "mood": 5,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying for linear algebra",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying for linear algebra",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying for linear algebra",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying for linear algebra",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Grabbing coffee",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Grabbing coffee",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Grabbing coffee",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Intern work",
+      "mood": 4,
+      "category": "Other"
+    },
+    {
+      "activity": "Intern work",
+      "mood": 4,
+      "category": "Other"
+    },
+    {
+      "activity": "Intern work",
+      "mood": 5,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying for linear algebra",
+      "mood": 4,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying for linear algebra",
+      "mood": 4,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying for linear algebra",
+      "mood": 4,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying for linear algebra",
+      "mood": 4,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying for linear algebra",
+      "mood": 4,
+      "category": "Other"
+    },
+    {
+      "activity": "Walking home",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Grabbing food",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Scrolling on tiktok",
+      "mood": 3,
+      "category": "Other"
+    },
+    {
+      "activity": "Scrolling on tiktok",
+      "mood": 3,
+      "category": "Other"
+    },
+    {
+      "activity": "Intern work",
+      "mood": 5,
+      "category": "Other"
+    },
+    {
+      "activity": "Intern work",
+      "mood": 3,
+      "category": "Other"
+    }
+  ],
+  "2026-02-10": [
+    null,
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Morning routine: prayer & bible",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Making breakfast",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Making breakfast",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "In business class",
+      "mood": 4,
+      "category": "Other"
+    },
+    {
+      "activity": "In economics",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "In economics",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "In economics",
+      "mood": 5,
+      "category": "Other"
+    },
+    {
+      "activity": "Walking home",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Applying for jobs",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Gym",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Gym",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Gym",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Gym",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "CS homework",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "CS homework",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Reading for comms",
+      "mood": 9,
+      "category": "Other"
+    },
+    {
+      "activity": "Reading for comms",
+      "mood": 9,
+      "category": "Other"
+    },
+    {
+      "activity": "Intern work",
+      "mood": 5,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying for CS",
+      "mood": 9,
+      "category": "Other"
+    },
+    {
+      "activity": "Joining a meeting",
+      "mood": 3,
+      "category": "Other"
+    },
+    {
+      "activity": "Joining a meeting",
+      "mood": 3,
+      "category": "Other"
+    },
+    {
+      "activity": "Cooking dinner",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Intern work",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Intern work",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Intern work",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Intern work",
+      "mood": 7,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying for calculus",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Studying for calculus",
+      "mood": 8,
+      "category": "Other"
+    },
+    {
+      "activity": "Coding this app",
+      "mood": 10,
+      "category": "Other"
+    },
+    {
+      "activity": "Making content",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Making content",
+      "mood": 6,
+      "category": "Other"
+    },
+    {
+      "activity": "Sleeping",
+      "mood": 10,
+      "category": "Other"
+    }
+  ]
+}
