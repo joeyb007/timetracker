@@ -46,7 +46,8 @@ def classify_activities(activities: List[str]):
         print(response)  # Print to see what went wrong
         return None
 
-if __name__ == "__main__":
+
+if __name__ == "__main__": 
     import json
 
     with open("week_data.json", "r") as f:
